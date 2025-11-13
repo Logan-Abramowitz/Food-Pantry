@@ -1,0 +1,5 @@
+Old Enfield coords: 42.44758172,-76.62799537
+New Enfield coords: 42.422757, -76.573471
+Old Enfield Demand: 14.38
+Max Pantry Demand: 40.45
+New Enfield Demand: 20.266
